@@ -1,1 +1,1 @@
-'Hello World!' |> console.log
+"Worked !!!" |> console.log;
